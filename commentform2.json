@@ -1,7 +1,8 @@
 {
 	"sent": false,
 	"form": {
-		"email": "you@you.co"
+		"email": "you@you.com",
+		"message": "H"
 	},
 	"success-message": "\n    "
 }
