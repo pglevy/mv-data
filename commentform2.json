@@ -1,5 +1,8 @@
 {
 	"sent": false,
-	"form": {},
+	"form": {
+		"email": "me@me.com",
+		"message": "custom save button"
+	},
 	"success-message": "\n    "
 }
