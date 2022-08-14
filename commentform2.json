@@ -1,5 +1,7 @@
 {
 	"sent": false,
-	"form": {},
+	"form": {
+		"email": "y"
+	},
 	"success-message": "\n    "
 }
