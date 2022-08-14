@@ -1,8 +1,8 @@
 {
-	"sent": false,
+	"sent": true,
 	"form": {
 		"email": "you@you.com",
-		"message": "Hmmm... not sure why it says problem saving data"
+		"message": "Hmmm... not sure why it says problem saving data."
 	},
 	"success-message": "\n    "
 }
