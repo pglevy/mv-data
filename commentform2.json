@@ -1,8 +1,5 @@
 {
-	"sent": true,
-	"form": {
-		"email": "octocat@github.com",
-		"message": "What is going on?"
-	},
+	"sent": false,
+	"form": {},
 	"success-message": "\n    "
 }
