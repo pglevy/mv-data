@@ -1,6 +1,7 @@
 {
 	"form": {
-		"email": "octocat@github.co"
+		"email": "octocat@github.com",
+		"message": "W"
 	},
 	"success-message": "\n    "
 }
